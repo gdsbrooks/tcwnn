@@ -1,0 +1,23 @@
+#tcwnn-logo-full {
+    max-width: calc(100% - 4em);
+    width: 35em;
+}
+
+#header > header > p {
+    max-width: calc(100% - 4em);
+    width: 35em;
+    margin: 2em auto;
+    padding: 1em;
+    border-radius: 1em;
+    background-color: rgba(50,50,50, 0.5);
+    ;
+}
+
+#header > header > a {
+ margin-left: 2em;
+ margin-right: 2em;
+}
+
+.copyright {
+    color: #333333;
+}
