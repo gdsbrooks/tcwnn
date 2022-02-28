@@ -24,11 +24,11 @@
     border: none;
 }
 
-#join > div > div > ul {
+ul {
     list-style-type: none;
     padding: 1em
 }
-#join > div > div > ul >li {
+li {
     padding: 0.5em
 }
 #footer {
