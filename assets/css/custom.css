@@ -13,11 +13,27 @@
     ;
 }
 
-#header > header > a {
- margin-left: 2em;
- margin-right: 2em;
+.splash {
+ margin: 1em;
+ padding: 0 2em;
+ vertical-align: middle;
 }
 
+.tcwnn-fb-logo{
+    max-width: 50%;
+    border: none;
+}
+
+#join > div > div > ul {
+    list-style-type: none;
+    padding: 1em
+}
+#join > div > div > ul >li {
+    padding: 0.5em
+}
+#footer {
+    min-height: fit-content;
+}
 .copyright {
-    color: #333333;
+    color: #000;
 }
