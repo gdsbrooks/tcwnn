@@ -1,11 +1,15 @@
 #tcwnn-logo-full {
-    margin-top: 3em;git 
-    max-width: calc(100% - 4em);
+    margin-top: 3em; 
+    max-width: 90%;
     width: 35em;
 }
 
+#header {
+    height: 100vh;
+}
 #header > header > p {
     max-width: calc(100% - 4em);
+    color:#FFF;
     width: 35em;
     margin: 2em auto;
     padding: 1em;
@@ -17,8 +21,8 @@
 .splash {
  margin: 1em;
  padding: 0 2em;
- vertical-align: middle;
 }
+
 
 .tcwnn-fb-logo{
     max-width: 50%;
@@ -32,6 +36,12 @@ ul {
 li {
     padding: 0.5em
 }
+
+ul > li > img {
+    max-width: 90px;
+    max-height: 90px;
+}
+
 #footer {
     min-height: fit-content;
 }
