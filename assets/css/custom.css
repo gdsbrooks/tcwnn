@@ -18,6 +18,10 @@
     ;
 }
 
+a.email-link {
+    margin: 2rem auto;
+}
+
 .splash {
  margin: 1em;
  padding: 0 2em;
